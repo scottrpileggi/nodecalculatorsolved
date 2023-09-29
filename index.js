@@ -29,4 +29,9 @@ function performOperation(firstNum, secondNum) {
 }
 console.log("The result is: " + performOperation(getFirstInt, getSecondInt));
 
+// I see that bonus question #1 wants me to handle remainders properly...
+// However, it seems that my program already handles (9 / 4) as suggested, returning 2.25..
+
+
+
 
